@@ -6,3 +6,5 @@
 
 # STEP 02- install the requirements
 * pip install -r requirements.txt
+
+# STEP 03- Create template.py and run it to create template for project 
