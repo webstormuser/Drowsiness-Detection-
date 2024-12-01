@@ -15,4 +15,5 @@ Flask
 Flask-Cors
 streamlit
 ipykernel
+pymongo
 -e .
