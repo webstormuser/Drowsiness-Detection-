@@ -3,7 +3,7 @@ artifacts_root: artifacts
 
 data_ingestion:
   root_dir: artifacts/data_ingestion
-  source_URL: https://github.com/webstormuser/Drowsiness-Detection-/raw/master/eye_dataset.zip
+  source_URL: https://github.com/webstormuser/Drowsiness-Detection-/raw/master/eye_drowsiness_dataset.zip
   local_data_file: artifacts/data_ingestion/data.zip
   unzip_dir: artifacts/data_ingestion
 
